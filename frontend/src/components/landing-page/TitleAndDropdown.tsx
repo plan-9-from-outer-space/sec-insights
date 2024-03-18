@@ -87,8 +87,7 @@ export const TitleAndDropdown = () => {
         </div>
         <div className="mt-4 flex items-center justify-center">
           <div className="w-3/5 text-center font-nunito">
-            Effortlessly analyze multifaceted financial documents such as 10-Ks
-            and 10-Qs.
+            Effortlessly analyze multifaceted SEC financial documents such as 10-Ks and 10-Qs.
           </div>
         </div>
         <div className="mt-4 flex items-center justify-center">
